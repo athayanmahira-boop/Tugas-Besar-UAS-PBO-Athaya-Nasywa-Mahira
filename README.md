@@ -6,21 +6,6 @@ Sistem Informasi Pencatatan Data Akta dan Pajak Akta PPAT_Tugas Besar PBO_241152
 Aplikasi berbasis Java Console untuk pencatatan data Akta PPAT dan Pajak Akta  
 menggunakan konsep Pemrograman Berorientasi Objek (PBO) dan database MySQL (JDBC).
 
-## Fitur Utama
-- Login pengguna (Admin & Staff)
-- CRUD Data Akta
-- CRUD Data Pajak Akta (SSP & SSB)
-- Rekapitulasi tahunan (COUNT, SUM, AVG)
-- Validasi input & exception handling
-
-## Konsep PBO yang Digunakan
-- Class & Object
-- Constructor
-- Inheritance (Pajak → SSP & SSB)
-- Interface & Implementasi (DAO)
-- Collection (List)
-- Exception Handling
-
 ## Teknologi
 - Java
 - MySQL
